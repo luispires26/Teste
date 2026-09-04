@@ -1,7 +1,4 @@
-Oi tudo bom? meu prro commit
+Oi tudo bom? meu primeiro commit
 
-Teste de aão do meu arquivo
+Teste de atualização do meu arquivo
 
-Teste de alteração online
-
-Estou alterando....
